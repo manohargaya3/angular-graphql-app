@@ -1,0 +1,16 @@
+div.row{
+    margin-top: 15px;
+}
+
+input.ng-invalid.ng-touched{
+    border: 2px solid rgb(228, 58, 58);
+}
+
+button{
+    margin: 10px;
+}
+
+.help-block
+{
+    color: rgb(231, 88, 88);
+}
